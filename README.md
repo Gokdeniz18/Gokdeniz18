@@ -1,3 +1,1 @@
-Hİ 
-I'am Gokdeniz 
-and Sinyor dev
+Hi, I'm Gokdeniz and Sinyor Dev.
